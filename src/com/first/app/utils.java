@@ -9,6 +9,8 @@ public class utils {
 		if(type == type.DOC) {
 			System.out.println(url + " file is printing");
 		}
+		
+		
 	}
 
 }
